@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="todo1">TODO</string>
+    <string name="description">Description</string>
+    <string name="watchon">Watch On</string>
+    <string name="intheatre">In Theatre</string>
+    <string name="todo">TODO</string>
+    <string name="textview">placeholder</string>
+</resources>
